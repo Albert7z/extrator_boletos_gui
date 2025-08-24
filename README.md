@@ -1,5 +1,4 @@
-# 🧾 Extrator de Dados de Boletos v2.0
-
+# 🧾 Extrator de Dados de Boletos v1
 Uma aplicação de desktop desenvolvida em Python para extrair informações importantes de boletos e faturas em PDF, como linha digitável, valor, vencimento e QR Code PIX.
 
 ## ✨ Funcionalidades
@@ -43,3 +42,17 @@ Sua contribuição, de qualquer valor, é o que mantém projetos como este vivos
 - PyMuPDF (fitz)
 - Pyzbar
 - Pillow
+
+---
+
+### 🤖 Sobre o Desenvolvimento e o Uso de IA
+
+Este projeto foi idealizado e desenvolvido por Albert7z. Durante todo o processo, utilizei ferramentas de Inteligência Artificial, como o Google Gemini, como uma assistente de programação e parceira de "brainstorming".
+
+A IA foi fundamental para:
+* Acelerar a escrita de código repetitivo (boilerplate).
+* Depurar (debug) erros complexos e exceções.
+* Sugerir e refinar algoritmos e expressões regulares (Regex).
+* Explorar diferentes abordagens para os desafios que surgiram no caminho.
+
+Toda a arquitetura, a lógica principal e as decisões finais do projeto foram conduzidas por mim, com a IA servindo como uma poderosa ferramenta para aumentar a produtividade e a qualidade do código final.
