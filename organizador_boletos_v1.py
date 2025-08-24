@@ -56,7 +56,7 @@ class ExtratorBoletosGUI:
         main_frame.columnconfigure(0, weight=1)
         
         # Título
-        titulo = ttk.Label(main_frame, text="🧾 Extrator de Dados de Boletos v2.0", 
+        titulo = ttk.Label(main_frame, text="🧾 Extrator de Dados de Boletos v1", 
                            font=('Arial', 16, 'bold'))
         titulo.grid(row=0, column=0, columnspan=3, pady=(0, 20))
         
